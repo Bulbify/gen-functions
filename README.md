@@ -6,9 +6,9 @@ This repository includes code of our generators. You can simply extract bytes fr
 
 ## Setup project
 
-`> git clone git@github.com:Bulbify/gen-int.git`
+`> git clone git@github.com:Bulbify/gen-functions.git`
 
-`> cd ./gen-int`
+`> cd ./gen-functions`
 
 `> yarn`
 
