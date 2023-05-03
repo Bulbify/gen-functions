@@ -1,0 +1,11 @@
+{
+  "name": "gen-functions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bulbify <info@bulbify.org>",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security"
+  }
+}
