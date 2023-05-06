@@ -14,7 +14,7 @@ This repository includes code of our generators. You can simply extract bytes fr
 
 ## Run an example
 
-`Save your image at ./sample-image.png`
+#### Save your image at ./sample-image.png
 
 `node ./examples/run-gen-int-arr.example.js`
 
