@@ -6,16 +6,27 @@ This repository includes code of our generators. You can simply extract bytes fr
 
 ## Setup project
 
-`> git clone git@github.com:Bulbify/gen-functions.git`
+`git clone git@github.com:Bulbify/gen-functions.git`
 
-`> cd ./gen-functions`
+`cd ./gen-functions`
 
-`> yarn`
+`yarn`
 
 ## Run an example
 
 `Save your image at ./sample-image.png`
 
-`> node ./examples/run-gen-int-arr.example.js`
+`node ./examples/run-gen-int-arr.example.js`
 
-`> Result: [ 52, 19, 24, 26, 26, 80, 35, 4, 79, 42 ]`
+```
+Generator type: int_arr
+Image: C:\Users\bulbify\Desktop\gen-functions\sample-image.png
+Output: [
+  52, 19, 24, 26, 26,
+  80, 35,  4, 79, 42
+]
+Formatted output: [
+   4, 19, 24, 26, 26,
+  35, 42, 52, 79, 80
+]
+```
